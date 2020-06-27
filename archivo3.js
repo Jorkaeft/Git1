@@ -1,1 +1,1 @@
-console.log("Hola puto")
+prompt("mande")
